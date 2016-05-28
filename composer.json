@@ -1,0 +1,14 @@
+{
+    "name": "lincolnbrito/phpunit-essencials",
+    "description": "Examples from the book: PHPUnit Essencials",
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "authors": [
+        {
+            "name": "Lincoln Brito",
+            "email": "lincoln.sbrito@gmail.com"
+        }
+    ],
+    "require": {}
+}
