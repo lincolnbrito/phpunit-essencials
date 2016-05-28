@@ -5,7 +5,7 @@ namespace Tests;
 class FirstTest extends \PHPUnit_Framework_TestCase
 {
     public function testAddition(){
-        $this->assertEquals(32, 1 + 1);
+        $this->assertEquals(2, 1 + 1);
     }
     public function testSubtraction(){
         $this->assertEquals(0.17, (1- 0.83));
